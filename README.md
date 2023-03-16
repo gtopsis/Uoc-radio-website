@@ -1,4 +1,4 @@
-# UoC radio website
+# UoC FM radio website
 
 This project was a try to create a responsive and usable website for the FM radio station of the university of Crete (UoC). It was aiming to host its information as well as to broadcast its music programs.
 It was volunteering work by me, as a student, and eventually, it didn't get applied to their official website. 
