@@ -7,4 +7,4 @@ It is based on the bootstrap template [Grayscale](https://startbootstrap.com/the
 
 ## Demo
 
-Visit https://gtopsis.github.io/Uoc-radio-website/index.html
+Visit [demo](https://gtopsis.github.io/Uoc-radio-website/index.html)
